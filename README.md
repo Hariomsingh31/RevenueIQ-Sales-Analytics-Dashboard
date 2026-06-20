@@ -2,13 +2,13 @@
 
 > An end-to-end data analytics + machine learning project: a retail sales pipeline that goes from raw CSV to cleaned data, engineered features, three trained ML models, and a live interactive dashboard — with revenue forecasting, customer/product segmentation, and anomaly detection built in.
 
-[![Live Demo](https://img.shields.io/badge/demo-live-success?style=for-the-badge)](https://sales-analysis-dashboard-vdmh.onrender.com/)
+[![Live Demo](https://img.shields.io/badge/demo-live-success?style=for-the-badge)](https://revenueiq-vlsh.onrender.com)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
-**[🔗 Live Demo](https://sales-analysis-dashboard-vdmh.onrender.com/)**
+**[🔗 Live Demo](https://revenueiq-vlsh.onrender.com)**
 
 ---
 
